@@ -83,5 +83,5 @@ After preprocessing:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/titanic-preprocessing.git
+   https://github.com/Vishvapriya-242006/Data-cleaning-and-preprocessing
    cd titanic-preprocessing
